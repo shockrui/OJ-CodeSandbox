@@ -106,7 +106,7 @@ public class JavaDockerCodeSandbox implements CodeSandbox {
                 throw new RuntimeException(e);
             }
         }
-
+// 测试上传
         System.out.println("下载完成");
 
         // 创建容器
